@@ -20,6 +20,6 @@ An aspiring full-stack developer, passionate about software and technology. I wo
 
 - [Macro Studio](https://github.com/alpha32k/MacroStudio): a free office macro recorder and player for Windows 10/11 (C#, .NET, WPF).
 - [ZyN Zeyno](https://github.com/alpha32k/ZynZeyno): a catalogue site for a wholesale women's clothing shop (HTML, CSS, JavaScript) with a local Node.js admin panel: series pricing, WhatsApp ordering, one-click publishing to Cloudflare Pages, CSP and XSS protection.
-- **Polinom Soru Bankası:** a C# Windows Forms app that generates random polynomial questions, runs a 60-second test and shows step-by-step solutions.
+
 
 **Tools I use:** C#, HTML, CSS, JavaScript, PHP, MySQL · Photoshop, Illustrator, After Effects · Git, Postman, XAMPP, Visual Studio Code, Android Studio, Arduino IDE
