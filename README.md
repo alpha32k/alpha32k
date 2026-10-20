@@ -6,7 +6,7 @@ Yazılıma ve teknolojiye tutkuyla bağlı bir fullstack geliştirici adayıyım
 
 - [Macro Studio](https://github.com/alpha32k/MacroStudio): Windows 10/11 için ücretsiz ofis makro kaydedici ve oynatıcı (C#, .NET, WPF).
 - [ZyN Zeyno](https://github.com/alpha32k/ZynZeyno): toptan kadın giyim mağazası için katalog sitesi (HTML, CSS, JavaScript) ve Node.js ile yerel yönetim paneli; seri fiyat hesabı, WhatsApp ile sipariş, Cloudflare Pages'e tek tuşla yayın, CSP ve XSS koruması.
-- **Polinom Soru Bankası:** C# Windows Forms ile rastgele polinom soruları, 60 saniyelik sınav ve adım adım çözüm raporu.
+
 
 **Kullandıklarım:** C#, HTML, CSS, JavaScript, PHP, MySQL · Photoshop, Illustrator, After Effects · Git, Postman, XAMPP, Visual Studio Code, Android Studio, Arduino IDE
 
